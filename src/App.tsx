@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <h1>React Tic-Tac-Toe</h1>
       <GameBoard />
-      <p>Message</p>
     </div>
   );
 }

@@ -1,1 +1,1 @@
-# react-tic-tac-teo
+# react-tic-tac-toe
