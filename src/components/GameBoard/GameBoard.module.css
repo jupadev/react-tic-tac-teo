@@ -1,0 +1,25 @@
+.gameboard {
+  margin-top: 1rem;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  border: 0;
+  font-weight: 600;
+  height: 40px;
+  padding: 12px 20px;
+  outline: none;
+  border: 1px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(57, 178, 209);
+}
+
+.message {
+  margin-top: 1rem;
+  font-weight: 700;
+  font-size: 16px;
+}
